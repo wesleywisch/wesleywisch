@@ -3,7 +3,7 @@
   
  - #### Sou o Wesley Wisch, tenho 17 anos estou por dentro das tecnologias frontend e backend há cerca de 5 meses.
 
-- #### 🚀 Participo da nova turma de React, no  [Ignite](https://rocketseat.com.br/ignite), organizado e ministrado pela  [Roketseat](https://rocketseat.com.br/).
+- #### 🚀 Participo da nova turma de React, no  [Ignite](https://rocketseat.com.br/ignite), organizado e ministrado pela  [Rocketseat](https://rocketseat.com.br/).
 
 - #### 👨‍💻 Estou dedicado á aprender, e ser um programador cada dia melhor.
 
