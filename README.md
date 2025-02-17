@@ -1,9 +1,7 @@
 # Olá 👋, sou o Wesley Wisch Lorenzeti
 
   
- - #### Sou o Wesley Wisch, tenho 19 anos estou por dentro das tecnologias frontend: React | React native | Javascript | Typescript
-
-- #### 🚀 Participo da turma de React, no  [Ignite](https://rocketseat.com.br/ignite), organizado e ministrado pela  [Rocketseat](https://rocketseat.com.br/).
+ - #### Sou o Wesley Wisch, tenho 21 anos estou por dentro das tecnologias frontend: React | React native | Javascript | Typescript
 
 - #### 👨‍💻 Estou dedicado á aprender, e ser um programador cada dia melhor.
 
